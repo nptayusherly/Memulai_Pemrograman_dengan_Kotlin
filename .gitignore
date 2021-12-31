@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Latihan/Latihan/build/
+/Coroutines/latihan/Latihan/build/
+/Coroutines/latihan/Latihan/out/
+/Coroutines/latihan/Latihan/out/production/classes/
+/Data Class dan Collections/Latihan/latihan/build/
+/Functional/Latihan/Latihan/build/
+/Functional/Latihan/Latihan/out/
+/Functional/Latihan/Latihan/out/production/classes/
+/Generics/Latihan/Latihan/build/
+/Generics/Latihan/Latihan/out/
+/Generics/Latihan/Latihan/out/production/classes/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
+/Object-Oriented/Latihan/Latihan/build/
+/Object-Oriented/Latihan/Latihan/out/
+/Object-Oriented/Latihan/Latihan/out/production/classes/
